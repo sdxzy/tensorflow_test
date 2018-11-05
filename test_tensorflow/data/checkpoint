@@ -1,0 +1,2 @@
+model_checkpoint_path: "save_mnist_cnn.ckpt"
+all_model_checkpoint_paths: "save_mnist_cnn.ckpt"
